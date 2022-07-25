@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        KoroToast.show(this, "Hola Koro");
+        KoroToast.show(this, "Hola Koro!");
     }
 }
